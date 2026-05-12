@@ -100,7 +100,7 @@ export function Navigation() {
               className="hidden sm:block font-display font-700 text-sm tracking-tight"
               style={{ color: 'var(--foreground)' }}
             >
-              Anthony Delhomme
+              Anthony Delhommé
             </span>
           </button>
 

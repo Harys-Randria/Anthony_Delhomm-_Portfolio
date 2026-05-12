@@ -111,7 +111,7 @@ export function Footer() {
                 AD
               </span>
               <span className="font-display font-700 text-base" style={{ color: 'white' }}>
-                Anthony Delhomme
+                Anthony Delhommé
               </span>
             </button>
 

@@ -115,7 +115,7 @@ export function Hero() {
                   fontWeight: 800,
                 }}
               >
-                Delhomme
+                Delhommé
               </div>
             </motion.div>
 
