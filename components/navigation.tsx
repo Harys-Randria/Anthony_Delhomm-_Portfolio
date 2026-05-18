@@ -8,8 +8,8 @@ import { profileData } from '@/lib/data';
 const menuItems = [
   { label: 'Accueil',      id: 'home' },
   { label: 'À propos',     id: 'about' },
-  { label: 'Expérience',   id: 'experience' },
   { label: 'Compétences',  id: 'expertise' },
+  { label: 'Expérience',   id: 'experience' },
   { label: 'Contact',      id: 'contact' },
 ];
 

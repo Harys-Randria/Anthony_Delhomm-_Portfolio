@@ -129,7 +129,7 @@ export function Hero() {
                 className="text-sm font-mono tracking-wide uppercase"
                 style={{ color: 'oklch(0.25 0.12 128)', fontWeight: 600 }}
               >
-                Data & AI Project Manager
+                Product Owner Data | BI | IA | Adoption & Gouvernance
               </p>
             </motion.div>
 
@@ -387,7 +387,7 @@ export function Hero() {
                 Références clients
               </p>
               <div className="flex flex-wrap justify-center gap-2">
-                {profileData.clients.slice(0, 3).map((client, i) => (
+                {profileData.clients.slice(0, 5).map((client, i) => (
                   <span
                     key={i}
                     className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-500 transition-all duration-200 hover:-translate-y-0.5"

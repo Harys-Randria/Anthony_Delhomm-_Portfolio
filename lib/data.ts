@@ -1,11 +1,10 @@
 export const profileData = {
   // ─── Identité ───────────────────────────────────────────────────────────────
   name: "Anthony DELHOMME",
-  title: "Consultant Project Manager — Chef de Projet Data & IA",
+  title: "Product Owner Data | BI | IA | Adoption & Gouvernance",
   subtitle:
-    "Chef de Projet Data avec +16 ans d'expérience en pilotage de produits data à forte valeur ajoutée pour les secteurs : Technologie, Luxe, Média et Finance.",
-  bio: "Expert en gestion de projets Data (Cycle en V, SCRUM, SAFe 6 Agilist) avec capacité démontrée à placer les enjeux business et équipes utilisateurs au cœur des décisions. Spécialisé en Data Gouvernance, migration d'outils data et coordination d'équipes cross-fonctionnelles (métiers, techniques, data). Certifié Dataiku Core/Advanced/MLP et SAFe 6 Agilist.",
-
+    "Product Owner Data avec +16 ans d'expérience en pilotage de produits data à forte valeur ajoutée pour les secteurs : Technologie, Luxe, Média et Finance.",
+  bio: "Expert en gestion de produits Data (Cycle en V, SCRUM, SAFe 6 Agilist) avec capacité démontrée à placer les enjeux business et équipes utilisateurs au cœur des décisions. Spécialisé en Data Gouvernance, adoption des outils data, migration de plateformes BI et coordination d'équipes cross-fonctionnelles (métiers, techniques, data). Certifié Dataiku Core/Advanced/MLP et SAFe 6 Agilist.",
   phone: "06 27 45 56 37",
   email: "anthonydelhomme.pro@gmail.com",
 
@@ -286,12 +285,13 @@ export const profileData = {
     { name: "TF1 Pub",        logo: "tf1",       sector: "Média" },
     { name: "Crédit du Nord", logo: "cdn",       sector: "Finance" },
     { name: "Technologie DSI", logo: "tech",     sector: "Technologie" },
+    { name: "PERNOD RICARD", logo: "pernod", sector: "Vins & Spiritueux" },
   ],
 
   // ─── À propos long ──────────────────────────────────────────────────────────
-  aboutText: `Chef de Projet Data avec +16 ans d'expérience en pilotage de produits data à forte valeur ajoutée pour les secteurs Technologie, Luxe, Média et Finance.
+  aboutText: `Product Owner Data | BI | IA | Adoption & Gouvernance avec +16 ans d'expérience en pilotage de produits data à forte valeur ajoutée pour les secteurs Technologie, Luxe, Média et Finance.
 
-Expert en gestion de projets Data (Cycle en V, SCRUM, SAFe 6 Agilist) avec une capacité démontrée à placer les enjeux business et les équipes utilisateurs au cœur des décisions. Spécialisé en Data Gouvernance, migration d'outils data et coordination d'équipes cross-fonctionnelles (métiers, techniques, data).
+Expert en gestion de produits Data (Cycle en V, SCRUM, SAFe 6 Agilist) avec une capacité démontrée à placer les enjeux business et les équipes utilisateurs au cœur des décisions. Spécialisé en Data Gouvernance, adoption des outils data, migration de plateformes BI et coordination d'équipes cross-fonctionnelles (métiers, techniques, data).
 
 J'ai accompagné des entreprises de premier plan — L'Oréal, TF1 Pub, Crédit du Nord — dans leurs projets les plus critiques : migration de systèmes data, mise en place de gouvernance, développement de solutions BI et formation des équipes.
 

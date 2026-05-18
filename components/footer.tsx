@@ -19,8 +19,8 @@ const item = {
 
 const quickLinks = [
   { label: 'Accueil',    id: 'home',       icon: Sparkles  },
-  { label: 'Expérience', id: 'experience', icon: Briefcase },
   { label: 'Expertise',  id: 'expertise',  icon: Award     },
+  { label: 'Expérience', id: 'experience', icon: Briefcase },
   { label: 'Contact',    id: 'contact',    icon: Users     },
 ];
 
